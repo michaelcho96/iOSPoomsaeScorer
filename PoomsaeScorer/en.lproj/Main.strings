@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "="; ObjectID = "64w-jH-TlB"; */
+"64w-jH-TlB.text" = "=";
+
+/* Class = "UILabel"; text = "Accuracy"; ObjectID = "XS1-GM-2P9"; */
+"XS1-GM-2P9.text" = "Accuracy";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "Xtf-PP-Ix5"; */
+"Xtf-PP-Ix5.text" = "Total";
+
+/* Class = "UITextField"; text = "4.0"; ObjectID = "YJr-PV-JMJ"; */
+"YJr-PV-JMJ.text" = "4.0";
+
+/* Class = "UILabel"; text = "+"; ObjectID = "Ysa-o7-tHs"; */
+"Ysa-o7-tHs.text" = "+";
+
+/* Class = "UIButton"; normalTitle = "Major (-0.3)"; ObjectID = "bLF-l9-q2F"; */
+"bLF-l9-q2F.normalTitle" = "Major (-0.3)";
+
+/* Class = "UILabel"; text = "Presentation"; ObjectID = "hGS-lt-oKO"; */
+"hGS-lt-oKO.text" = "Presentation";
+
+/* Class = "UITextField"; text = "4.0"; ObjectID = "jym-GI-lwM"; */
+"jym-GI-lwM.text" = "4.0";
+
+/* Class = "UIButton"; normalTitle = "Minor (-0.1)"; ObjectID = "kYq-AP-xKY"; */
+"kYq-AP-xKY.normalTitle" = "Minor (-0.1)";
+
+/* Class = "UITextField"; text = "0.0"; ObjectID = "sWN-9e-hWe"; */
+"sWN-9e-hWe.text" = "0.0";

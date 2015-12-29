@@ -47,6 +47,7 @@
 		9A731C601C2A9CB60022A73B /* PoomsaeScorerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PoomsaeScorerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9A731C641C2A9CB60022A73B /* PoomsaeScorerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PoomsaeScorerUITests.swift; sourceTree = "<group>"; };
 		9A731C661C2A9CB60022A73B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A731C731C2BE21B0022A73B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -296,6 +297,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				9A731C491C2A9CB50022A73B /* Base */,
+				9A731C731C2BE21B0022A73B /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -483,6 +485,7 @@
 				9A731C6B1C2A9CB60022A73B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9A731C6C1C2A9CB60022A73B /* Build configuration list for PBXNativeTarget "PoomsaeScorerTests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +494,7 @@
 				9A731C6E1C2A9CB60022A73B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9A731C6F1C2A9CB60022A73B /* Build configuration list for PBXNativeTarget "PoomsaeScorerUITests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +503,7 @@
 				9A731C711C2A9CB60022A73B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
